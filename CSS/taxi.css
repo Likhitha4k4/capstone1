@@ -1,0 +1,400 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+
+}
+.a{
+	height: 3850px;
+	width: 1000px;
+	background-color: white;
+	margin: 190px;
+}
+
+
+
+.b{
+	height: 500px;
+	width: 900px;
+	background-color: gold;
+    margin-left: 41px;
+}
+
+
+
+
+.c{
+	height: 500px;
+	width: 900px;
+	background-color:whitesmoke;
+	margin-left: 41px;
+}
+.d{
+	height: 400px;
+	width:250px;
+	float: left;
+	margin-left: 40px;
+	background-color: gold; 
+	margin-top: 25px;
+}
+.e{
+	height: 400px;
+	width: 250px;
+	float: left;
+	margin-left: 20px;
+	background-color: gold;
+	margin-top: 25px;
+}
+.f{
+	height: 400px;
+	width:250px;
+	float:left;
+	margin-left: 40px;
+	background-color: gold;
+	margin-top: 25px;
+}
+.{
+	margin-left: 600px;
+	margin-bottom: 30px;
+	
+}
+.g{
+	height: 650px;
+	width: 900px;
+	background-color: whitesmoke;
+	margin-left: 41px;
+	}
+.gg{
+	height: 600px;
+	width: 600px;
+	margin-left: 100px;
+background-color: lightgrey;
+}
+.h{
+	height: 500px;
+	width: 900px;
+	background-color: gold;
+	margin-left: 41px;
+	
+}
+.l{height: 640px;
+	width: 900px;
+	background-color: whitesmoke;
+	margin-left: 41px;
+
+
+}
+.m{
+	height: 500px;
+	width: 900px;
+	background-color: lightpink;
+	background-image: url('images/highway2.jpg');
+	margin-left: 41px;
+
+	
+}
+.n{
+	height: 400px;
+	width:900px;
+	background-color: gold;
+	margin-left: 41px;
+
+}
+.o{
+	height: 150px;
+	width: 900px;
+	background-color: grey;
+	margin-left: 41px;
+}
+.dd{
+	height: 170px;
+	width: 230px;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+.ee{
+	height: 170px;
+	width: 230px;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+.ff{
+	height: 170px;
+	width: 230px;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+.ggg{
+	width: 300px;
+	height: 170px;
+	
+	margin-top: 25px;
+	margin-left: 16px;	
+}
+.abc{
+	height: 150px;
+	width: 130px;
+	margin-top: 10px;
+	
+
+
+	background-position: left-bottom;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+}
+.z{
+	background-color: ;
+	height: 300px;
+	width: 600px;
+}
+.zzz{
+	margin-top: 110px;
+	margin-left: 10px;
+}
+
+.hb{
+	height: 250px;
+	width: 250px;
+	background-color: white;
+	position: relative;
+	left: 140px;
+	top:100px;
+	float: left;
+	margin-left: 
+   
+
+}
+.ha{
+	height: 300px;
+	width: 300px;
+	background-color: black;
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.hc{
+	height: 230px;
+	width: 230px;
+	background-color: green;
+	float: left;
+	position: absolute;
+	left:400px;
+	margin-top: 80px;
+	margin-left: 230px;	
+}
+.la{
+	height: 350px;
+	width: 350px;
+	background-color: gold;
+	float: left;
+	margin-top: 30px;
+	position: relative;
+}
+.lb{
+	height: 250px;
+	width: 250px;
+	background-color:white;
+	float: left;
+	left: 10px;
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 180px;
+
+	
+	left: 130px;
+}
+.lc{
+	height: 300px;
+	width: 400px;
+	background-color: brown;
+	position: absolute;
+	margin-left: 190px;
+	margin-top: 120px;
+	float: left;
+
+	
+}
+.ld{
+	height: 200px;
+	width: 450px;
+background-color: gold;
+margin-left: 200px;
+float: right;
+position: relative;
+}
+.{
+	height: 500px;
+	width: 900px;
+}
+.lik{
+	height: 500px;
+	width: 200px;
+	background-color: white;
+
+}
+.lcc{
+	height: 300px;
+	width: 400px;
+}
+{
+	height: 200px;
+	margin-left: 430px;
+	margin-top: 10px;		
+
+}
+.hcc{
+	height: 230px;
+	width: 230px;
+}
+.haa{
+	height: 300px;
+	width: 300px;
+}
+.mm{
+	height: 500px;
+	width: 900px;
+}
+
+.man{
+	text-indent: 1px;
+}
+
+.na{
+	height:400px;
+	width: 300px;
+	background-color: gold;
+	float: left;
+
+}
+.nb{
+	height:400px;
+	width: 300px;
+	background-color: gold;
+	float: left;
+}
+.nc{
+	height: 400px;
+	width: 300px;
+	background-color: gold;
+	float: left;
+}
+.tt{
+	height: 100px;
+	width: 250px;
+}
+.i5{
+	width: 250px;
+}
+
+
+.sub{
+	background-color: black;
+	color:white;
+}
+.idd{margin-left: 140px;
+	margin-bottom: 39px;
+	height: 200px;
+
+}
+.red{
+	height: 200px;
+	width: 250px;
+	background-color: gold;
+	float: left;
+	padding-top: 20px;
+	padding-left: 10px;	
+}
+.blue{
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+	float: right;
+}
+.green{
+	height: 200px;
+	width: 200px;
+}
+.grey{
+       height: 500px;
+       width: 450px;
+       background-color: gold;
+       float: left;
+
+}
+.greyish{
+	height: 500px;
+	width: 450px;
+	background-color: yellow;
+	float: left;
+
+}
+.ban{
+	height: 500px;
+	width: 450px;
+
+}
+.x{
+	margin-left: 40px;
+	margin-top: 40px;
+}
+.call{
+	
+	background-color: black;
+	color: white;
+	height: 18px;
+	width: 60px;
+	margin-left: 60px;
+
+}
+.pia{
+	padding-left: 78px;
+	padding-top: px;
+}
+.pib{
+	padding-left: 78; 
+	padding-top: 30px;
+}
+.pic{
+padding-left:78px;
+padding-top: px;
+
+}
+.pid{
+	padding-top: 60px;
+	padding-left:80px;
+
+}
+.bb{
+	padding-left: 40px;
+}
+.vin{height: 600px;
+	width: 300px;
+	background-color: whitesmoke;
+	float: left;
+
+}
+.vim{
+	height: 600px;
+	width: 300px;
+	background-color: white;
+	float: left;
+}   
+.pig{
+	height: 30px;
+	width: 150px;
+	background-color: gold;
+	margin-left: 20px;
+}
+.when{
+	height: 230px;
+	width: 250px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.afg{
+	padding-left:280px; 
+     padding-top:  10px;
+}
+.agf{
+	padding-left: 180px;
+}
